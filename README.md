@@ -27,6 +27,6 @@ dataframe is called `US_weather_7yr_avg`
 #### 2. Spatial Interpolation of Weather Data
 - Input: `US_weather_7yr_avg` dataframe
 - Process: An okta prediction model is trained using data points at 50 weather stations. This model is used to interpolate okta values across the U.S. interpolate them across the U.S. Now we can obtain average Okta values at any lat, lon position in the U.S.
-- Output: Regression model trained over 5 years of weather data `gprs_7yr_pickled`
+- Output: Regression model trained over 7 years of weather data `gprs_7yr_pickled`
 - Only edit this notebook if the prediction model needs to be trained again over new data, or change required in the model itself.
 - Contains bonus content of how to create a nice visualisation using a heatmap
