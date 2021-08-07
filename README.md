@@ -10,7 +10,7 @@ Visualisation of Cloud Cover across the U.S. on different days:
 
 ### Prerequisites
 
-The program requires [Python >= 3.7](https://www.python.org/downloads/) to be downloaded and installed on the machine.
+The Jupyter notebooks require [Python >= 3.7](https://www.python.org/downloads/) to be downloaded and installed on the machine.
 Last tested on Python 3.7.
 
 ## Notebooks
