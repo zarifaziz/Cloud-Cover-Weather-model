@@ -1,5 +1,7 @@
 # Cloud-Cover-Weather-model
-Modelling cloud cover at different heights based on Okta values. Creating by extracting METAR data from weather stations. 
+Use this weather model if you care about *Cloud Cover percentage* as well as *Cloud Heights*. Creating by extracting METAR data from weather stations.
+
+Data is extracted from the Iowa Environmental Mesonet (IEM), which is a network of computers responsible for collecting, disseminating and archiving weather observation data. The observations are in the form of METAR data containing hourly observations of cloud cover percentage and height.
 
 
 ## Getting Started
